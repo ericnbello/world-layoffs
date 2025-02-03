@@ -259,7 +259,7 @@ Interactive maps and charts showing the locations and countries most affected by
 #### Industry & Company Stage Analysis:
 Visual breakdowns of layoffs by industry and the stage of the company.
 
-You can view the live dashboard here: (Tableau Public Dashboard)[https://public.tableau.com/app/profile/ericnbello/viz/WorldLayoffs_17382760095000/CompaniesbyCountry]
+You can view the live dashboard here: [Tableau Public Dashboard](https://public.tableau.com/app/profile/ericnbello/viz/WorldLayoffs_17382760095000/CompaniesbyCountry)
 
 ## Conclusion
 
